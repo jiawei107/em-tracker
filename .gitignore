@@ -14,6 +14,3 @@ data/
 *.xlsx
 ~$*.xlsx
 *.log
-
-# Config (keep config_template.py)
-config.py
