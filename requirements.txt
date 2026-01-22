@@ -1,11 +1,3 @@
 requests>=2.25.0
-<<<<<<< HEAD
 beautifulsoup4>=4.9.0
 lxml>=4.6.0
-=======
-pandas>=1.3.0
-beautifulsoup4>=4.9.0
-lxml>=4.6.0
-xlsxwriter>=3.0.0
-colorama>=0.4.4
->>>>>>> b9dafe607e64aa64da2259be10d19906969b2d0d
